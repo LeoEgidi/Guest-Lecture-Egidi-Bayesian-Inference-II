@@ -2,4 +2,4 @@
 
 - Hamiltonian Monte Carlo
 - Introduction to Stan
-- HMM application and use of cmdstan
+- HMM application on tracking basketball events with cmdstan and rstan
